@@ -1,0 +1,24 @@
+{
+  "name": "ui-basics-framework-big-picture-agumusay",
+  "version": "1.0.0",
+  "description": "Let's create a website with Bootstrap! You will need some CSS for the background image only.",
+  "main": "index.js",
+  "scripts": {
+    "watch-styles": "node-sass -w sass -o styles",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dci-ber-fbw21/ui-basics-framework-big-picture-agumusay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dci-ber-fbw21/ui-basics-framework-big-picture-agumusay/issues"
+  },
+  "homepage": "https://github.com/dci-ber-fbw21/ui-basics-framework-big-picture-agumusay#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
